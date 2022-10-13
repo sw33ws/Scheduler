@@ -12,7 +12,7 @@ Make a new folder, and than download everything into it. Than open that folder i
 
 # Usage
 
-Go to https://sw33ws.github.io/studious-parakeet/ and and click the large boxs, and type in what you need, then click the save buttons to the right to save what you just typed.
+Go to [here](https://sw33ws.github.io/Scheduler/) and and click the large boxs, and type in what you need, then click the save buttons to the right to save what you just typed.
 
 # Credits
 
